@@ -36,7 +36,7 @@ The quadratic formula is given by:
 $$x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 ## In-line Code
-To print "Hello, World!" in Python, use `print("Hello, World!")`.
+To print "Hello, World!" in c++, use `cout << "Hello World";`.
 
 ## Code Block
 ```python
